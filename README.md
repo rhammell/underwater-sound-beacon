@@ -3,10 +3,8 @@ This repository contains the code, audio files, and 3D models required to build 
 
 # How It Works
 
-This underwater sound beacon enbables visually impaired swimmers to safely navigate through a pool using their sense of hearing. 
+This underwater sound beacon enables visually impaired swimmers to safely navigate through a pool using their sense of hearing.
 
-The beacon consists of a 3D printed body that is anchored to the bottom of the pool using a weight. It is positioned within the center of a swim lane, and a a known distance from the pool's wall.
+The beacon consists of a 3D printed body anchored to the bottom of the pool with a weight. Positioned at the center of a swim lane and at a known distance from the pool's wall, the beacon's electronics produce repeating audio cues that propagate through the surrounding water, audible to nearby swimmers.
 
-Electronics within the beacon body produce repeating audio cues that can be heard nearby in the water. 
-
-Swimmers with limited vision can listen for these cues as they swim, and use the direction and intensity of the sound to determine where they are in proximity to the beacon. This spatial awareness helps prevent them from swimming into the pool's wall and stay centered in the swim lane.
+Swimmers with limited vision can listen for these cues, using the direction and intensity of the sound to determine their proximity to the beacon. This spatial awareness helps prevent them from colliding with the pool's wall and allows them to stay centered in the swim lane.
