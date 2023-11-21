@@ -9,5 +9,5 @@ The beacon consists of a 3D printed body anchored to the bottom of the pool with
 
 Swimmers with limited vision can listen for these cues, using the direction and intensity of the sound to determine their proximity to the beacon. This spatial awareness helps prevent them from colliding with the pool's wall and allows them to stay centered in the swim lane.
 
-## Video Demonstration
+## Demo Video
 [![Video](https://img.youtube.com/vi/7JQlHfV8p6E/maxresdefault.jpg)](https://www.youtube.com/watch?v=7JQlHfV8p6E)
