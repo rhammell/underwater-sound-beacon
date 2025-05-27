@@ -1,5 +1,7 @@
 # underwater-sound-beacon
-This repository contains the code, audio files, and 3D models required to build an underwater sound beacon for visually impaired swimmers. Read the full project description and build tutorial on [Hackster.io](https://www.hackster.io/rhammell/underwater-sound-beacons-for-visually-impaired-swimmers-b1aa85)
+This repository contains the code, audio files, and 3D models required to build an underwater sound beacon for visually impaired swimmers. 
+
+Read the [project guide](https://www.hackster.io/rhammell/underwater-sound-beacons-for-visually-impaired-swimmers-b1aa85) on Hackster.io for a copmlete project description and build tutorial.
 
 ## Project Description
 This underwater sound beacon enables visually impaired swimmers to safely navigate through a pool using their sense of hearing.
